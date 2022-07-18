@@ -1,2 +1,5 @@
 # Fecogenome
 Scripts from A global phylogenomic and metabolic reconstruction of the large intestine bacterial community of domesticated cattle
+
+
+R scripts linked to the manuscript entitled “A global phylogenomic and metabolic reconstruction of the large intestine bacterial community of domesticated cattle”. The three scripts contain the code for three different parts of the analysis: 1) "permanovas_n_div" contain the code for performing permanova and non-parametric tests to examine alpha diversity using compositional matrix of different features, 2) "core_final" contains the code for identifying the most abundant features that were present in at least the 80% of all samples using the same compositional matrix , 3) "indicspecies_everything" contains the code for performing an indicspecies analysis using the same compositional matrix to identify differentially represented features in the dataset. 
